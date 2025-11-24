@@ -1,5 +1,5 @@
 print("primer programa")
-print("rojo")
+print("ojro")
 print("verde")
 print("azul")
 print("amarillo")
