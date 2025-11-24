@@ -1,3 +1,6 @@
 print("primer programa")
 print("rojo")
 print("verde")
+print("azul")
+print("amarillo")
+print("negro")
